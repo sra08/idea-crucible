@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Idea Crucible",
+    "slug": "idea-crucible",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#16302F"
+    },
+    "android": {
+      "package": "com.yourname.ideacrucible",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#16302F"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "color": "#F4B63F"
+        }
+      ],
+      [
+        "react-native-android-widget",
+        {
+          "widgets": [
+            {
+              "name": "Status",
+              "label": "Idea Crucible",
+              "minWidth": "180dp",
+              "minHeight": "110dp",
+              "targetCellWidth": 4,
+              "targetCellHeight": 2,
+              "description": "Days left before the cemetery",
+              "updatePeriodMillis": 3600000
+            }
+          ]
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b7d06e9b-ca3e-4c61-a18b-f2256d6a1be7"
+      }
+    }
+  }
+}
