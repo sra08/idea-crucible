@@ -46,7 +46,16 @@ Because every reminder is something the phone can know in advance, the whole thi
 
 ## Screenshots
 
-> Add a screenshot here once you have one, for example `docs/home.png`, then reference it like `![Home](docs/home.png)`.
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/79b2f839-d1bc-46b5-bc2b-bac8befc05bd" />
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d1a2576-af43-4e76-b06e-5ae003c43edf" />
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b911ef2e-0494-4cae-b420-948d29c38a6c" />
+
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/934e4a7e-a089-49c2-843d-8b9ab35a1ff7" />
+
+
+
 
 ## Tech stack
 
